@@ -18,9 +18,9 @@ We compared the performance of the two algorithms by measuring their execution t
 
 ### Example Performance Comparison
 
-For an amount of 10,000:
-- Greedy Algorithm: Time: 0.000005 seconds
-- Dynamic Programming: Time: 0.000100 seconds
+![image](https://github.com/ArturLaski/goit-algo-hw09/assets/162509395/3481e9bd-747e-4a40-aba1-28991fe540c2)
+
+
 
 The greedy algorithm is faster in execution but may not provide the optimal solution for certain amounts.
 
